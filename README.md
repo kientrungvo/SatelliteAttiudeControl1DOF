@@ -1,4 +1,4 @@
-# SatelliteAttiudeControl1DOF
+# Satellite Attiude Control (1DOF)
 
 ---
 
